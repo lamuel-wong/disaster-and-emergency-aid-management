@@ -5,8 +5,6 @@
   </p>
 </div>
 
-<!-- USAGE EXAMPLES -->
-## Usage
 <p>
 This application keeps track of the quantity of each item needed, the number of items on hand, the needed purchase fund, shipping the items and storing the data in a file for future use. Items are divided into categories of:
 
@@ -28,5 +26,26 @@ This project was designed to gain hands-on experience delving into the fundament
 - **Virtual Functions and Abstract Base Classes:** Explored the use of virtual functions and abstract base classes to define common interfaces and accommodate diverse implementations.
 - **Templates:** Implemented generic programming with templates to enhance adaptability, allowing the system to handle various data types efficiently.
 
+## Usage
+
+To use the Disaster and Emergency Aid Management Application, follow these steps:
+
+1. **Open the Project:**
+   - Ensure you have a C++ compiler installed on your system.
+   - Open the project solution file (`FP.sln`) in your preferred C++ integrated development environment (IDE).
+
+2. **Compile and Build:**
+   - Build the project within your IDE. This will compile the source code.
+
+3. **Run the Application:**
+   - Run the compiled executable directly from your IDE or locate the generated executable file in the project directory.
+   - Execute the executable to launch the application.
+
+4. **Navigate the Command-Line Menu:**
+   - Once the application is running, you'll be presented with a command-line menu.
+   - Use the menu options to navigate through the functionalities of the application.
+
+5. **Exit the Application:**
+   - When you are done using the application, choose the exit option from the menu to close the program.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
